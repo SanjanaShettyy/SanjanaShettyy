@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjanashettyy" alt="sanjanashettyy" /></a> </p>
 
-- 🌱 I’m currently learning **Data Visualization With Python**
-
 - 📫 How to reach me **keerashetty14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
