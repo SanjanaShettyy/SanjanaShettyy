@@ -97,7 +97,7 @@ Face recognition attendance system with automatic attendance logging.
 # 📌 Currently
 
 - 🎯 Preparing for **AI/ML**, **Computer Vision**, and **Generative AI** internship roles
-- 💻 Solving **Data Structures & Algorithms** in Java
+- 💻 Solving **Data Structures & Algorithms** in Python
 - 🧠 Learning **Deep Learning** architectures and training workflows
 - 🤖 Building end-to-end Computer Vision applications
 - 🌱 Contributing to and exploring open-source projects
