@@ -79,33 +79,44 @@ Jupyter notebook to something a real user can actually interact with.
   grouped by category. A flat wall of 30 badges is noise; grouping
   by Languages / Frontend / Backend / Database / AI-ML / Tools lets
   a recruiter match their job req's "must-have" list to a specific
-  row in seconds. Using one consistent icon set (skillicons.dev)
-  keeps the visual theme uniform instead of a mismatched badge
-  collage — this is the detail that separates "premium" from
-  "cluttered."
+  row in seconds. Badges use shields.io rather than an icon-image
+  CDN — shields.io is one of the most reliable badge services on
+  the web, so this section won't silently break the way image-CDN
+  icon sets occasionally do.
 -->
 
 ## Tech Stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql" height="45" alt="languages" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,js" height="45" alt="frontend" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="45" alt="backend" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **Database**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="45" alt="database" />
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn" height="45" alt="ai-ml" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 | | |
 |---|---|
@@ -115,7 +126,9 @@ Jupyter notebook to something a real user can actually interact with.
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" alt="tools" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br>
 
@@ -160,16 +173,29 @@ interface for real-time predictions.
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 Bank Management System
+### 🛣️ RoadLens AI
 
-A Java-based banking application built around core OOP principles,
-handling account management, transactions, and record-keeping with
-a clean object model.
+A YOLOv8-based road damage and pothole detection system, with a
+severity classification layer and a Streamlit/FastAPI deployment
+so the model can be used beyond a notebook.
 
-**Stack:** Java · Object-Oriented Programming
+**Stack:** YOLOv8 · Computer Vision · Streamlit · FastAPI
 
 </td>
 <td width="50%" valign="top">
+
+### 🧑‍💻 Smart Face Recognizer
+
+An AI-powered face recognition attendance system that detects and
+identifies faces in real time and logs attendance automatically
+through a lightweight desktop interface.
+
+**Stack:** MediaPipe · FaceNet · TensorFlow · SQLite · Tkinter
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
 ### 📌 More on GitHub
 
@@ -192,17 +218,21 @@ maintained on my profile.
   activity — many hiring pipelines glance at contribution history
   as a soft signal of discipline. Keeping all three cards on the
   same dark theme keeps the page visually unified instead of
-  looking like three different tools were bolted on.
+  looking like three different tools were bolted on. The streak
+  card below points at streak-stats.demolab.com rather than the
+  old herokuapp.com domain — Heroku discontinued free hosting in
+  2022, so that domain no longer resolves; demolab.com is the
+  service's current maintained endpoint.
 -->
 
 ## GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SanjanaShettyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaShettyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SanjanaShettyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaShettyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjanaShettyy&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img src="https://streak-stats.demolab.com/?user=SanjanaShettyy&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
 
