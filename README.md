@@ -51,27 +51,39 @@ Currently preparing for **AI/ML**, **Computer Vision**, and **Generative AI** in
 # 🚀 Featured Projects
 
 ### 🛣️ RoadLens AI
+
 YOLO-powered road damage and pothole detection platform with severity classification, FastAPI backend, and Streamlit deployment.
 
-**Stack:** YOLO • OpenCV • FastAPI • Streamlit • Computer Vision
+**Stack:** YOLO11s • OpenCV • FastAPI • Streamlit • Computer Vision
 
 ---
 
-### ⛓ Blockchain Crowdfunding Platform
+### 🎥 AI Video Assistant
+
+AI-powered video assistant that transcribes YouTube or local videos, translates Hinglish content to English, and enables RAG-based question answering over the video content.
+
+**Stack:** Python • Whisper • Sarvam AI • Mistral AI • LangChain • ChromaDB • RAG • Streamlit
+
+---
+
+### 🤖 Multi-Agent AI Research System
+
+AI research platform that uses multiple specialized agents to search the web, gather information, and generate research-focused responses using LLMs and retrieval techniques.
+
+**Stack:** Python • Mistral AI • LangChain • Tavily • Streamlit • RAG
+
+---
+
+### ⛓️ Blockchain Crowdfunding Platform
+
 Decentralized crowdfunding platform using smart contracts with an AI-based trust scoring system.
 
 **Stack:** Solidity • React • Express • MongoDB • AI
 
 ---
 
-### ❤️ Heart Disease Risk Predictor
-Machine Learning application that predicts heart disease risk through an interactive Streamlit interface.
-
-**Stack:** Python • Scikit-Learn • Streamlit
-
----
-
 ### 👤 Smart Face Recognizer
+
 Face recognition attendance system with automatic attendance logging.
 
 **Stack:** FaceNet • OpenCV • TensorFlow • SQLite
